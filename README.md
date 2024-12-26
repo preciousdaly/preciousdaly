@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preciousdaly
 - 👀 I’m interested in Freelancing..
-- 🌱 I’m currently learning mobile app development..
+- 🌱 I’m currently building mobile applications using flutter,dart, kotlin and java.
 - 💞️ I’m looking to collaborate on software development and freelancing..
 - 📫 How to reach me chukwuemekap923@gmail.com...
 - 😄 Pronouns: Maximize the opportunity you have now by making a difference...
